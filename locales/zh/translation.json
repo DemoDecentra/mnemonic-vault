@@ -1,0 +1,63 @@
+{
+  "theme": {
+    "light": "浅色",
+    "dark": "深色",
+    "system": "跟随系统"
+  },
+  "systemSetting": {
+    "changeTheme": "切换主题",
+    "changeLanguage": "切换语言"
+  },
+  "title": {
+    "app": "助记词金库",
+    "welcome": "安全的 Web3 离线助记词工具",
+    "entropy": "熵 (Entropy): {{entropyBits}} bits",
+    "security": "安全性评估",
+    "seed": "种子",
+    "keyGenerator": "密钥生成"
+  },
+  "actionBar": {
+    "words": "单词",
+    "clear": "清空",
+    "generate": "生成",
+    "completeRest": "完成剩余",
+    "validMnemonic": "有效的助记词",
+    "invalidMnemonic": "无效的助记词",
+    "showPassphrase": "显示密码",
+    "hidePassphrase": "隐藏密码",
+    "copyToClipboard": "复制"
+  },
+  "snackMessage": {
+    "generated": "生成成功",
+    "cleared": "清空成功",
+    "copied": "复制成功"
+  },
+  "radix": {
+    "hexical": "16进制",
+    "decimal": "10进制",
+    "binary": "2进制"
+  },
+  "security": {
+    "dangerous": "安全性极低！可能在短时间内被破解。请增加随机生成的单词数量。",
+    "warning": "安全性较低。虽然有所改善，但仍不建议用于存储重要资产。",
+    "safe": "安全性良好。您助记词的随机部分足够安全。"
+  },
+  "seed": {
+    "passphrase": "密码（可为空）",
+    "generatedSeed": "生成的种子"
+  },
+  "coinType": "币种",
+  "wallet": "钱包",
+  "coinList": {
+    "BTC": "比特币",
+    "ETH": "以太坊",
+    "SOL": "索拉纳",
+    "LTC": "莱特币",
+    "DOGE": "狗狗币",
+    "BNB": "币安币",
+    "XRP": "瑞波",
+    "TRX": "波场",
+    "ADA": "卡尔达诺",
+    "DOT": "波卡"
+  }
+}

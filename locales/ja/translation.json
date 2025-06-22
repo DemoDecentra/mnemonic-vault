@@ -1,0 +1,63 @@
+{
+  "theme": {
+    "light": "ライト",
+    "dark": "ダーク",
+    "system": "システム設定に従う"
+  },
+  "systemSetting": {
+    "changeTheme": "テーマを変更",
+    "changeLanguage": "言語を変更"
+  },
+  "title": {
+    "app": "ニーモニック金庫",
+    "welcome": "安全な Web3 オフライン・ニーモニック・ツール",
+    "entropy": "エントロピー: {{entropyBits}} bits",
+    "security": "セキュリティ評価",
+    "seed": "シード",
+    "keyGenerator": "キー生成"
+  },
+  "actionBar": {
+    "words": "単語",
+    "clear": "クリア",
+    "generate": "生成",
+    "completeRest": "残りを生成",
+    "validMnemonic": "有効なニーモニック",
+    "invalidMnemonic": "無効なニーモニック",
+    "showPassphrase": "パスフレーズを表示",
+    "hidePassphrase": "パスフレーズを非表示",
+    "copyToClipboard": "コピー"
+  },
+  "snackMessage": {
+    "generated": "生成しました",
+    "cleared": "クリアしました",
+    "copied": "コピーしました"
+  },
+  "radix": {
+    "hexical": "16進",
+    "decimal": "10進",
+    "binary": "2進"
+  },
+  "security": {
+    "dangerous": "セキュリティが非常に低いです！短時間で解読される可能性があります。ランダムな単語を追加してください。",
+    "warning": "セキュリティが低いです。まだ重要な資産の保管にはお勧めできません。",
+    "safe": "セキュリティは良好です。フレーズのランダムな部分は十分に強力です。"
+  },
+  "seed": {
+    "passphrase": "パスフレーズ（任意）",
+    "generatedSeed": "生成されたシード"
+  },
+  "coinType": "コインタイプ",
+  "wallet": "ウォレット",
+  "coinList": {
+    "BTC": "ビットコイン",
+    "ETH": "イーサリアム",
+    "SOL": "ソラナ",
+    "LTC": "ライトコイン",
+    "DOGE": "ドージコイン",
+    "BNB": "バイナンスコイン",
+    "XRP": "リップル",
+    "TRX": "トロン",
+    "ADA": "カルダノ",
+    "DOT": "ポルカドット"
+  }
+}
