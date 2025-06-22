@@ -1,0 +1,63 @@
+{
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "systemSetting": {
+    "changeTheme": "Change Theme",
+    "changeLanguage": "Change Language"
+  },
+  "title": {
+    "app": "Mnemonic Vault",
+    "welcome": "Secure, offline mnemonic tool for Web 3",
+    "entropy": "Entropy: {{entropyBits}} bits",
+    "security": "Security Assessment",
+    "seed": "Seed",
+    "keyGenerator": "Key Generator"
+  },
+  "actionBar": {
+    "words": "Words",
+    "clear": "Clear",
+    "generate": "Generate",
+    "completeRest": "Complete Rest",
+    "validMnemonic": "Valid mnemonic",
+    "invalidMnemonic": "Invalid mnemonic",
+    "showPassphrase": "Show Passphrase",
+    "hidePassphrase": "Hide Passphrase",
+    "copyToClipboard": "Copy to clipboard"
+  },
+  "snackMessage": {
+    "generated": "Generated",
+    "cleared": "Cleared",
+    "copied": "Copied"
+  },
+  "radix": {
+    "hexical": "Hexical",
+    "decimal": "Decimal",
+    "binary": "Binary"
+  },
+  "security": {
+    "dangerous": "Extremely Low Security! This can be cracked very quickly. Please add more random words.",
+    "warning": "Low Security. While better, this is still not recommended for significant assets.",
+    "safe": "Good Security. The randomly generated portion of your phrase is strong."
+  },
+  "seed": {
+    "passphrase": "Passphrase (optional)",
+    "generatedSeed": "Generated Seed"
+  },
+  "coinType": "Coin Type",
+  "wallet": "Wallet",
+  "coinList": {
+    "BTC": "Bitcoin",
+    "ETH": "Ethereum",
+    "SOL": "Solana",
+    "LTC": "Litecoin",
+    "DOGE": "Dogecoin",
+    "BNB": "Binance Coin",
+    "XRP": "Ripple",
+    "TRX": "Tron",
+    "ADA": "Cardano",
+    "DOT": "Polkadot"
+  }
+}
