@@ -11,7 +11,7 @@ i18n
   .init({
     supportedLngs: ["en", "ja", "zh"],
     fallbackLng: "en",
-    debug: true,
+    debug: process.env.NODE_ENV !== "production",
     backend: {
       loadPath: "./locales/{{lng}}/{{ns}}.json",
     },
